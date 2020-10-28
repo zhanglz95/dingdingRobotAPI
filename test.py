@@ -14,7 +14,7 @@ dingRobot.sendMd(
     )
 
 # 发送Link
-dingRobot.sendLink(title="张氏家族崛起", text="具体人员有：张烈卓、张娟、张学龙...", msgUrl="https://www.baidu.com")
+dingRobot.sendLink(title="测试", text="测试", msgUrl="https://www.baidu.com")
 
 # 发送基本信息
 dingRobot.sendText("测试", at=['15623059510'])
